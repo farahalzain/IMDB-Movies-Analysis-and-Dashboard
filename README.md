@@ -25,15 +25,19 @@ In addition, an **interactive Streamlit dashboard** was built to visualize and e
 IMDB-Movies-Analysis/
 │
 ├── imdb_movies.ipynb          # Main data analysis notebook
-├── data_loader.py             # Helper function to load dataset
 ├── imdb_top_1000.csv          # Dataset file
-│
 ├── streamlit_app/
-│   ├── Home.py
-│   ├── Certificates.py
-│   ├── Meta_Score.py
-│   ├── Relationships.py
-│   └── data_loader.py
+│   ├── App.py
+│   ├── pages
+|       ├── Overview.py
+|       ├── Meta_Score.py
+│       ├── Relationships.py
+|       ├── Certificates.py
+|       ├── Directors.py
+|       ├── Stars.py
+|       ├── Runtime.py
+|       ├── Genres.py    
+│   └── data_loader.py         # Helper function to load dataset
 │
 └── README.md
 ```
