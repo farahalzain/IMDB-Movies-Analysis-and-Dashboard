@@ -25,8 +25,8 @@ In addition, an **interactive Streamlit dashboard** was built to visualize and e
 IMDB-Movies-Analysis/
 │
 ├── imdb_movies.ipynb          # Main data analysis notebook
-├── imdb_top_1000.csv          # Dataset file
 ├── streamlit_app/
+|   ├── imdb_top_1000.csv          # Dataset file
 │   ├── App.py
 │   ├── pages
 |       ├── Overview.py
