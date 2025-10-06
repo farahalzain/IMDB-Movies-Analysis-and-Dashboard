@@ -28,6 +28,7 @@ IMDB-Movies-Analysis/
 ├── streamlit_app/
 |   ├── imdb_top_1000.csv          # Dataset file
 │   ├── App.py
+│   ├── requirements.txt
 │   ├── pages
 |       ├── Overview.py
 |       ├── Meta_Score.py
