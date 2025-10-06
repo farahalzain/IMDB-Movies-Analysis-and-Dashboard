@@ -122,7 +122,7 @@ A user-friendly dashboard was developed using **Streamlit** to interact with the
 Run locally:
 
 ```bash
-streamlit run Home.py
+streamlit run App.py
 ```
 
 ---
