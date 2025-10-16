@@ -135,4 +135,3 @@ streamlit run App.py
 * Popularity (number of votes) is a strong revenue indicator.
 * Data-driven storytelling + marketing = higher commercial success.
 
----؟
